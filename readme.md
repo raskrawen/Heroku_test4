@@ -1,0 +1,1 @@
+server og frontend kommunikation virker i Heroku.
